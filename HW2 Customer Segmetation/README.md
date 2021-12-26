@@ -6,7 +6,9 @@ Loading the transaction data called "Supermarket Data.csv". It contains 950K row
   - rows identify each transaction
   - columns identify purchasing information ex. purchasing time, purchasing date, purchasing location, basket size, basket price, customer id
 
- ![loading_data](https://user-images.githubusercontent.com/56682174/147410862-a0a0b2a2-2672-4eab-bf60-a6a9fbfc78d9.png)
+![loading_data](https://user-images.githubusercontent.com/56682174/147410930-98183b8d-e606-48e4-9f47-1502281e0ea1.png)
 
 
 ## 2.Prepare customer single view
+I add several feature, whcich tend relate with customer purchaing behaviour, into customer single view
+  1) customer life stage
