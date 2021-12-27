@@ -48,7 +48,7 @@ In customer single view, I add several features whcich tend to relate with custo
 
 ## 4. Interpret result
 
-&nbsp;&nbsp;&nbsp;&nbsp; **1) Find feature Importance** 
+### 1) Find feature Importance
 - When each customer got label, **I did decision tree to see the key features for clustering.**
 - The result of decision tree shows **3 features importance : recency, total_day, totalspend**
 
