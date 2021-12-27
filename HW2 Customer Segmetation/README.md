@@ -40,7 +40,7 @@ In customer single view, I add several features whcich tend to relate with custo
 
 ![K-mean](https://user-images.githubusercontent.com/56682174/147458048-76c52afa-70fa-48c3-8a46-a34f1ca3ac79.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp; After using K-mean model to predict the customer clusters , I have to **add the predicted cluster (or label) for each customer into the last column of table.** (for finding feature importance in next step)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; After using K-mean model to predict the customer clusters , I have to **add the predicted cluster (or label) for each customer into the last column of table.** (to find feature importance in the next step)<br>
 ***Tip! : don't forget to DROP uninvolved columns ex. customer id.***
 
 ![k-mean predict](https://user-images.githubusercontent.com/56682174/147460167-a0d4bc25-e3d0-4cf7-9467-54a303821d5e.png)
@@ -66,7 +66,7 @@ XXX  pic  XXXX
 
 ![customer behaviour](https://user-images.githubusercontent.com/56682174/147462702-e311aae0-c4c4-4809-b820-229ff0a9441a.jpeg)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **3) Action for each customer group** 
+&nbsp;&nbsp;&nbsp;&nbsp; **3) Action Plan for each customer group** 
 
 **Class0 called "CASUAL"** : Low Value  - High Recency - Short Relationship
   - Run analysis on the cost vs revenue of offering promotions
