@@ -53,7 +53,7 @@ In customer single view, I add several features whcich tend to relate with custo
 
 ![decision tree](https://user-images.githubusercontent.com/56682174/147462060-97a2c9a7-66b6-4803-85dd-5d754e7e56b4.jpeg)
 
-- I used **another libratry for checking feature imnportance.** The result also shows **3 features importance : recency, total_day, totalspend**
+- I used **another libratry for checking feature importance.** The result also shows **3 features importance : recency, total_day, totalspend**
 
 XXX  pic  XXXX
 
