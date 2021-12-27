@@ -60,7 +60,7 @@ XXX  pic  XXXX
 
 
 ### 4.2) Interpret characteristic for each customer group
-The graph shows the customer behaviour in each group. X-axis is total days of the relationship, Y-axis is recency and the size of buuble is totalSpend.
+The graph shows the customer behaviour in each group. X-axis is total days of the relationship, Y-axis is recency and the size of bubble is totalSpend.
    - Class0 : Low Value  - High Recency - Short Relationship because their basket size are very small
    - Class1 : Medium Value - Low Recency - Medium Relationship
    - Class2 : Low Value - Medium Recency - Medium  Relationship
