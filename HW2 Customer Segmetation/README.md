@@ -76,8 +76,8 @@ The graph shows the customer behaviour in each group. X-axis is total days of th
 
 **Class1 called ""** : Medium Value - Low Recency - Medium Relationshipp
   - Up-selling and Cross-selling, for example:
-      - Customer will receive Cash Coupon or discount x% when purchasing the participating products or when purchasing at x,xxx THB
-      - Customer will receive Cash Coupon when top-up pre-paid gift card at xx,xxx THB
+      - Customer will receive Cash Coupon or Discount/Cashback x% when purchasing the participating products or when purchasing at x,xxx THB
+      - Customer will receive Cash Coupon when Top-Up Pre-Paid gift card at xx,xxx THB
       - Customer will receive free sample or product when purchasing more the same catagory items such as free wooden storage when purchasing 4 twining tea boxs
 
 **Class2 called ""** : Low Value - Medium Recency - Medium  Relationship
@@ -85,5 +85,5 @@ The graph shows the customer behaviour in each group. X-axis is total days of th
   - Discount speacial products, BOGO
 
 **Class3 called ""** : High Value -Low Recency- Long Relationship
-  - Suggest Special new product
-  - Send holiday gift ex. new product samples, gift card, discount coupon
+  - Send holiday gift and birthday gift ex. new product samples, gift card, discount coupon
+  - Offer additional privilege Cash Coupon or Discount/Cashback x% more than the other groups ex. class1 got 3% but class3 got 5%
