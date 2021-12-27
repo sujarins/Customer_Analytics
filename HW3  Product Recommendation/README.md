@@ -7,42 +7,9 @@
 ![convet collected data](https://user-images.githubusercontent.com/56682174/147476812-2f29dd65-f0cf-4f10-b0f6-79bc4f166a03.png)
  
 
-## 2.Run Apriori Algorithm
-
-
-## 3. Cluster Customer
-#### compare model performance
- as picture below, I selected sc and k-mean to cluster customer
-![comparing](https://user-images.githubusercontent.com/56682174/147456132-c9d71177-26ba-4d24-afd0-b1dbb12f1ec6.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp; **1) SC Model** :  SC model segments customers into 4 groups, but the most customers are assigned into Cluster 0. <br>
-**Hence, I decided to drop sc model.**
-
-![sc model](https://user-images.githubusercontent.com/56682174/147456414-8e7dd827-b4c4-41a8-8638-084d8f62c4d3.png)
-
-
-&nbsp;&nbsp;&nbsp;&nbsp; **2) K-Mean Model** : K-mean can segments customer into 4 gorups, and the number customers in each group are quite reasonable. <br>
-**So, I decided to use K-mean model.**
-
-![K-mean](https://user-images.githubusercontent.com/56682174/147458048-76c52afa-70fa-48c3-8a46-a34f1ca3ac79.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp; After using K-mean model to predict the customer clusters , I have to **add the predicted cluster (or label) for each customer into the last column of table.** (to find feature importance in the next step)<br>
-***Tip! : don't forget to DROP uninvolved columns ex. customer id.***
-
-![k-mean predict](https://user-images.githubusercontent.com/56682174/147460167-a0d4bc25-e3d0-4cf7-9467-54a303821d5e.png)
-
-
-## 4. Interpret result
-
-### 4.1) Find feature Importance
-- When each customer got label, **I did decision tree to see the key features for clustering.**
-- The result of decision tree shows **3 features importance : recency, total_day, totalspend**
-
-![decision tree](https://user-images.githubusercontent.com/56682174/147462060-97a2c9a7-66b6-4803-85dd-5d754e7e56b4.jpeg)
-
-- I used **another libratry for checking feature importance.** The result also shows **3 features importance : recency, total_day, totalspend**
-
-XXX  pic  XXXX
+## 2.Find frequent itemsets
+### 2.1) By Apriori Algorithm
+Setting min_threshold=1, Lift >= 1.1 and confidence >= 0.7
 
 
 ### 4.2) Interpret characteristic for each customer group
