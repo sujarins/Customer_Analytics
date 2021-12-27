@@ -30,13 +30,13 @@ In customer single view, I add several features whcich tend to relate with custo
 ![comparing](https://user-images.githubusercontent.com/56682174/147456132-c9d71177-26ba-4d24-afd0-b1dbb12f1ec6.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **1) SC Model** :  SC model segments customers into 4 groups, but the most customers are assigned into Cluster 0. <br>
-**Hence, I decied to drop sc model.**
+**Hence, I decided to drop sc model.**
 
 ![sc model](https://user-images.githubusercontent.com/56682174/147456414-8e7dd827-b4c4-41a8-8638-084d8f62c4d3.png)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2) K-Mean Model** : K-mean can segments customer into 4 gorups, and the number customers in each group are quite reasonable. <br>
-**So, I decied to use K-mean model.**
+**So, I decided to use K-mean model.**
 
 ![K-mean](https://user-images.githubusercontent.com/56682174/147458048-76c52afa-70fa-48c3-8a46-a34f1ca3ac79.png)
 
