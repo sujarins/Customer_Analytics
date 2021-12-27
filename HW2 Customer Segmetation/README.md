@@ -57,7 +57,7 @@ In customer single view, I add several features whcich tend to relate with custo
 
 XXX  pic  XXXX
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2) Interpret customer group** 
+&nbsp;&nbsp;&nbsp;&nbsp; **2) Interpret each customer groups** 
 - The graph shows the customer behaviour in each group. X-axis is total days of the relationship, Y-axis is recenvy and the size is totalSpend.
     - Class0 : Low Value  - High Recency - Short Relationship because their basket size are very small
     - Class1 : Medium Value - Low Recency - Medium Relationship
@@ -67,7 +67,6 @@ XXX  pic  XXXX
 ![customer behaviour](https://user-images.githubusercontent.com/56682174/147462702-e311aae0-c4c4-4809-b820-229ff0a9441a.jpeg)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **3) Action Plan for each customer group** 
-
 **Class0 called "CASUAL"** : Low Value  - High Recency - Short Relationship
   - Run analysis on the cost vs revenue of offering promotions
   - Churn prediction (Lead scoring)
