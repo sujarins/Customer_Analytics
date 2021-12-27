@@ -58,7 +58,8 @@ In customer single view, I add several features whcich tend to relate with custo
 
 XXX  pic  XXXX
 
-<br>
+
+
 &nbsp;&nbsp;&nbsp;&nbsp; **2) Interpret characteristic for each customer group** 
 - The graph shows the customer behaviour in each group. X-axis is total days of the relationship, Y-axis is recenvy and the size is totalSpend.
     - Class0 : Low Value  - High Recency - Short Relationship because their basket size are very small
