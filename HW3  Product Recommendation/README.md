@@ -1,28 +1,14 @@
-# Customer Segmetation
-### Objective : To segment customers into 4 groups
+# Product Recommendation 
+### Objective : to uncover associations between items
 
-## 1.Load data
-Loading the transaction data called "Supermarket Data.csv". It contains 950K rows and 22 columns.
-  - rows identify each transaction
-  - columns identify purchasing information ex. purchasing time, purchasing date, purchasing location, basket size, basket price, customer id
+## 1.Prepare Data
+- Loading the collected data, which is collect during class by google forms
+- convert letter to numerical data 
+![convet collected data](https://user-images.githubusercontent.com/56682174/147476812-2f29dd65-f0cf-4f10-b0f6-79bc4f166a03.png)
+ 
 
-![loading_data](https://user-images.githubusercontent.com/56682174/147410930-98183b8d-e606-48e4-9f47-1502281e0ea1.png)
+## 2.Run Apriori Algorithm
 
-
-## 2.Prepare customer single view
-In customer single view, I add several features whcich tend to relate with customer purchaing behaviour as following:
-  1. cust_code : customer id
-  2. totalSpend : total spending
-  3. totalVisit : the number of visiting
-  4. totalSKUs : the number of distinct items in basket
-  5. LifeStage : customer age group
-  6. TicketSize : average purchasing amount per visiting
-  7. total_day : total days of the relationship
-  8. recency : day since last purchasing
-  9. Shop Weekday : purchasing weekday
-  10. Shop Hour : purchasing time
-  11. basketType : basket types ex. full shop, small shop, top up
-  12. basketDOM : item types in basket ex. fresh, grocery,mixed
 
 ## 3. Cluster Customer
 #### compare model performance
