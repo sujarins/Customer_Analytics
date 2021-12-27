@@ -61,10 +61,10 @@ XXX  pic  XXXX
 
 ### 4.2) Interpret characteristic for each customer group
 The graph shows the customer behaviour in each group. X-axis is total days of the relationship, Y-axis is recenvy and the size is totalSpend.
-    - Class0 : Low Value  - High Recency - Short Relationship because their basket size are very small
-    - Class1 : Medium Value - Low Recency - Medium Relationship
-    - Class2 : Low Value - Medium Recency - Medium  Relationship
-    - Class3 : High Value -Low Recency- Long Relationship customers because they shop for higher spend, are long time for membership and have low recency values (meaning they have been shopping recently)
+   - Class0 : Low Value  - High Recency - Short Relationship because their basket size are very small
+   - Class1 : Medium Value - Low Recency - Medium Relationship
+   - Class2 : Low Value - Medium Recency - Medium  Relationship
+   - Class3 : High Value -Low Recency- Long Relationship customers because they shop for higher spend, are long time for membership and have low recency values (meaning they have been shopping recently)
 
 ![customer behaviour](https://user-images.githubusercontent.com/56682174/147462702-e311aae0-c4c4-4809-b820-229ff0a9441a.jpeg)
 
