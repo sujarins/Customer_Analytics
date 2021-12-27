@@ -86,7 +86,7 @@ The graph shows the customer behaviour in each group. X-axis is total days of th
 
 **Class3 called "RIPE"** : High Value -Low Recency- Long Relationship
   - Send holiday gift and birthday gift ex. new product samples, gift card, discount coupon
-  - Offer additional privilege Cash Coupon or Discount/Cashback x% more than the other groups ex. class1 got 3% but class3 got 5%
+  - Offer additional privilege Cash Coupon or Discount/Cashback x% more than the other groups ex. class1 got 3% but class3 got 5% <br> <br>
 
 
 ![customer segmentation](https://user-images.githubusercontent.com/56682174/147474917-fa5b2002-4362-49e8-83d2-9b217fb6139b.png)
