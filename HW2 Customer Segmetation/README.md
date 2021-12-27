@@ -47,6 +47,7 @@ In customer single view, I add several features whcich tend to relate with custo
 
 
 ## 4. Interpret result
+
 &nbsp;&nbsp;&nbsp;&nbsp; **1) Find feature Importance** 
 - When each customer got label, **I did decision tree to see the key features for clustering.**
 - The result of decision tree shows **3 features importance : recency, total_day, totalspend**
@@ -57,7 +58,8 @@ In customer single view, I add several features whcich tend to relate with custo
 
 XXX  pic  XXXX
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2) Interpret each customer groups** 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; **2) Interpret characteristic for each customer group** 
 - The graph shows the customer behaviour in each group. X-axis is total days of the relationship, Y-axis is recenvy and the size is totalSpend.
     - Class0 : Low Value  - High Recency - Short Relationship because their basket size are very small
     - Class1 : Medium Value - Low Recency - Medium Relationship
@@ -65,6 +67,7 @@ XXX  pic  XXXX
     - Class3 : High Value -Low Recency- Long Relationship customers because they shop for higher spend, are long time for membership and have low recency values (meaning they have been shopping recently)
 
 ![customer behaviour](https://user-images.githubusercontent.com/56682174/147462702-e311aae0-c4c4-4809-b820-229ff0a9441a.jpeg)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp; **3) Action Plan for each customer group** 
 **Class0 called "CASUAL"** : Low Value  - High Recency - Short Relationship
