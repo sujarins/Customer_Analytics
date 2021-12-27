@@ -40,7 +40,7 @@ In customer single view, I add several features whcich tend to relate with custo
 
 ![K-mean](https://user-images.githubusercontent.com/56682174/147458048-76c52afa-70fa-48c3-8a46-a34f1ca3ac79.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp; After I used K-mean model to predict the customer clusters , I have to **add the predicted cluster (or label) for each customer into the last column of table.** (for finding feature importance in next step)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; After using K-mean model to predict the customer clusters , I have to **add the predicted cluster (or label) for each customer into the last column of table.** (for finding feature importance in next step)<br>
 ***Tip! : don't forget to DROP uninvolved columns ex. customer id.***
 
 ![k-mean predict](https://user-images.githubusercontent.com/56682174/147460167-a0d4bc25-e3d0-4cf7-9467-54a303821d5e.png)
