@@ -2,7 +2,6 @@
 ### Objective : To build the customer response predictive model. All conversions have a cost, so we have to select the right offer to the right customer segment. 
 
 
-
 ## 1.Load data
 Loading 2 csv file as following:
   1) Retail_Data_Response.csv &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2) Retail_Data_Transactions.csv
