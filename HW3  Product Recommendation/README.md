@@ -2,7 +2,11 @@
 ### Objective : to uncover associations between items
 
 ## 1.Prepare Data
-- Loading the collected data, which is collect during class by google forms with the questions : "Have you ever bought xxx?" and answer only "YES" or "NO"
+- Loading the collected data, which is collect during class by google forms .<br>
+&nbsp;&nbsp;&nbsp;&nbsp; the question : "Have you ever bought xxx?" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    answer    :  only "YES" or "NO"
+    
+    
 - convert letter to numerical data 
 ![convet collected data](https://user-images.githubusercontent.com/56682174/147476812-2f29dd65-f0cf-4f10-b0f6-79bc4f166a03.png)
 - check the most popular items <br>
