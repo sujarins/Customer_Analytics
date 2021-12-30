@@ -11,7 +11,7 @@
 
 <img width="600" alt="customer movement SQL" src="https://user-images.githubusercontent.com/56682174/147784235-06ebad7e-abdb-4926-a238-07cc5574910f.png">
 
-https://console.cloud.google.com/bigquery?sq=603046427757:70b8394d24d5412e92017cea7b26ef96
+Link for Google BigQuery : https://console.cloud.google.com/bigquery?sq=603046427757:70b8394d24d5412e92017cea7b26ef96
     
 
 
