@@ -1,6 +1,6 @@
 # AB testing
 
-### Objective : to uncover which option people prefer
+### Objective : to uncover which options people prefer
 
 ## 1. Identify problem
 Our problem : which iphone color people prefer blue or pink?
